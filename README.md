@@ -71,12 +71,14 @@ node server.js
 ## Capturas de la salida
 
 ### Servidor escuchando  
-![Servidor escuchando](<img width="1007" height="118" alt="Captura de pantalla 2025-09-06 100819" src="https://github.com/user-attachments/assets/dcc27ce4-4a6d-4193-85f1-d81a82395b6b" />
-)
+![Servidor escuchando]
+<img width="1007" height="118" alt="Captura de pantalla 2025-09-06 100819" src="https://github.com/user-attachments/assets/dcc27ce4-4a6d-4193-85f1-d81a82395b6b" />
+
 
 ### Mensaje en ruta raíz (`/`)  
-![Ruta raiz](<img width="644" height="162" alt="Captura de pantalla 2025-09-06 100848" src="https://github.com/user-attachments/assets/35773ff5-4566-4f91-94f8-260ba108f560" />
-)
+![Ruta raiz]
+<img width="644" height="162" alt="Captura de pantalla 2025-09-06 100848" src="https://github.com/user-attachments/assets/35773ff5-4566-4f91-94f8-260ba108f560" />
+
 
 ### Descarga del archivo Excel (`/reporte`)  
 ![Reporte Excel](<img width="438" height="152" alt="Captura de pantalla 2025-09-06 100924" src="https://github.com/user-attachments/assets/56962a05-d5c5-44e1-865c-7473ccacc1dd" />
