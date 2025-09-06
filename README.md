@@ -81,12 +81,14 @@ node server.js
 
 
 ### Descarga del archivo Excel (`/reporte`)  
-![Reporte Excel](<img width="438" height="152" alt="Captura de pantalla 2025-09-06 100924" src="https://github.com/user-attachments/assets/56962a05-d5c5-44e1-865c-7473ccacc1dd" />
-)
+![Reporte Excel]
+<img width="438" height="152" alt="Captura de pantalla 2025-09-06 100924" src="https://github.com/user-attachments/assets/56962a05-d5c5-44e1-865c-7473ccacc1dd" />
+
 
 ### Archivo Excel generado  
-![Archivo Excel](<img width="746" height="834" alt="Captura de pantalla 2025-09-06 100954" src="https://github.com/user-attachments/assets/1e52d058-1314-4592-a8f6-17a6e90ebde5" />
-)
+![Archivo Excel]
+<img width="746" height="834" alt="Captura de pantalla 2025-09-06 100954" src="https://github.com/user-attachments/assets/1e52d058-1314-4592-a8f6-17a6e90ebde5" />
+
 
 ---
 
